@@ -1,0 +1,44 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "Tu Pokemon es de tipo Fuego?",
+      "propiedad": "fuego"
+    },
+    {
+      "pregunta": "Tu Pokemon es de tipo Agua?",
+      "propiedad": "agua"
+    },
+    {
+      "pregunta": "Tu Pokemon es de tipo Planta?",
+      "propiedad": "planta"
+    },
+    {
+      "pregunta": "Tu Pokemon es de tipo Eléctrico?",
+      "propiedad": "electrico"
+    },
+    {
+      "pregunta": "Tu Pokemon es de tipo Volador?",
+      "propiedad": "volador"
+    },
+    {
+      "pregunta": "Tu Pokemon es de tipo Psíquico?",
+      "propiedad": "psiquico"
+    },
+    {
+      "pregunta": "Tu Pokemon tiene una forma legendaria?",
+      "propiedad": "legendario"
+    },
+    {
+      "pregunta": "Tu Pokemon tiene una evolución?",
+      "propiedad": "evolucion"
+    },
+    {
+      "pregunta": "Tu Pokemon tiene un solo tipo?",
+      "propiedad": "solo_tipo"
+    },
+    {
+      "pregunta": "Tu Pokemon es la primera forma de su evolucion?",
+      "propiedad": "primera_forma"
+    }
+  ]
+}

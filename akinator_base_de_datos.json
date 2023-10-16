@@ -1,0 +1,154 @@
+{
+  "personajes": [
+    {
+      "nombre": "Charmander",
+      "propiedades": {
+        "fuego": true,
+        "agua": false,
+        "planta": false,
+        "electrico": false,
+        "volador": false,
+        "psiquico": false,
+        "legendario": false,
+        "evolucion": true,
+        "solo_tipo": true,
+        "primera_forma": true
+      }
+    },
+    {
+      "nombre": "Squirtle",
+      "propiedades": {
+        "fuego": false,
+        "agua": true,
+        "planta": false,
+        "electrico": false,
+        "volador": false,
+        "psiquico": false,
+        "legendario": false,
+        "evolucion": true,
+        "solo_tipo": true,
+        "primera_forma": true
+      }
+    },
+    {
+      "nombre": "Bulbasaur",
+      "propiedades": {
+        "fuego": false,
+        "agua": false,
+        "planta": true,
+        "electrico": false,
+        "volador": false,
+        "psiquico": false,
+        "legendario": false,
+        "evolucion": true,
+        "solo_tipo": true,
+        "primera_forma": true
+      }
+    },
+    {
+      "nombre": "Pikachu",
+      "propiedades": {
+        "fuego": false,
+        "agua": false,
+        "planta": false,
+        "electrico": true,
+        "volador": false,
+        "psiquico": false,
+        "legendario": false,
+        "evolucion": true,
+        "solo_tipo": true,
+        "primera_forma": true
+      }
+    },
+    {
+      "nombre": "Mewtwo",
+      "propiedades": {
+        "fuego": false,
+        "agua": false,
+        "planta": false,
+        "electrico": false,
+        "volador": false,
+        "psiquico": true,
+        "legendario": true,
+        "evolucion": false,
+        "solo_tipo": true,
+        "primera_forma": true
+      }
+    },
+    {
+      "nombre": "Jigglypuff",
+      "propiedades": {
+        "fuego": false,
+        "agua": false,
+        "planta": false,
+        "electrico": false,
+        "volador": false,
+        "psiquico": false,
+        "legendario": false,
+        "evolucion": true,
+        "solo_tipo": true,
+        "primera_forma": true
+      }
+    },
+    {
+      "nombre": "Gengar",
+      "propiedades": {
+        "fuego": false,
+        "agua": false,
+        "planta": false,
+        "electrico": false,
+        "volador": false,
+        "psiquico": false,
+        "legendario": false,
+        "evolucion": true,
+        "solo_tipo": true,
+        "primera_forma": true
+      }
+    },
+    {
+      "nombre": "Machamp",
+      "propiedades": {
+        "fuego": false,
+        "agua": false,
+        "planta": false,
+        "electrico": false,
+        "volador": false,
+        "psiquico": false,
+        "legendario": false,
+        "evolucion": true,
+        "solo_tipo": true,
+        "primera_forma": true
+      }
+    },
+    {
+      "nombre": "Lapras",
+      "propiedades": {
+        "fuego": false,
+        "agua": true,
+        "planta": false,
+        "electrico": false,
+        "volador": false,
+        "psiquico": false,
+        "legendario": false,
+        "evolucion": true,
+        "solo_tipo": true,
+        "primera_forma": true
+      }
+    },
+    {
+      "nombre": "Onix",
+      "propiedades": {
+        "fuego": false,
+        "agua": false,
+        "planta": false,
+        "electrico": false,
+        "volador": false,
+        "psiquico": false,
+        "legendario": false,
+        "evolucion": true,
+        "solo_tipo": true,
+        "primera_forma": true
+      }
+    }
+  ]
+}
